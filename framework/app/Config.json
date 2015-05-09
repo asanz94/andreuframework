@@ -1,0 +1,18 @@
+{
+	"driver":"mysql",
+    "dbname":"2daw13_agencia_viajes",
+    "dbhost":"localhost",
+    "dbuser":"2daw13_root",
+    "dbpass":"root",
+	"app_data":{
+    	"css":"css/app.css",
+    	"js":"js/application.js",
+        "titol":"Agencia viajes",
+        "logo":"img/logo.jpg",
+        "img":"img/",
+        "apli":"KMan",
+        "theme":"pub/themes/k/",
+        "app_w":""
+    }
+}
+
